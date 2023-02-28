@@ -1,5 +1,5 @@
 # AFRL Util Helper Functions
-## Various reusable funtions for verilog
+### Various reusable funtions for verilog
 ---
 
    author: Jay Convertino   
@@ -11,8 +11,6 @@
    license: MIT   
    
 ---
-
-![rtl_img](./rtl.png)
 
 ### IP USAGE
 #### INSTRUCTIONS
@@ -38,9 +36,15 @@
   
 #### TB
 
-* tb_helper.v ... test all util_helper_xxx.vh functions.
+* tb_helper.v
   
 ### fusesoc
 
 * fusesoc_info.core created.
 * Simulation uses icarus to run data through the core.
+
+#### TARGETS
+
+* RUN WITH: (fusesoc run --target=sim VENDER:CORE:NAME:VERSION)
+  - default (for IP integration builds)
+  - sim
