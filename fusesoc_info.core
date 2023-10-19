@@ -17,10 +17,12 @@ filesets:
     
 targets:
   default: &default
+    description: Include all helper functions for verilog.
     filesets: [src]
   
   sim:
     <<: *default
+    description: Test helper funtions.
     default_tool: icarus
     filesets_append: [tb]
     toplevel: tb_helper
