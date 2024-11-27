@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tb_",["Module","File"],[["tb_helper",,[[,,,,0,"File2:tb_helper.v:tb_helper","SystemVerilogModule:tb_helper"],[,"tb_helper.v",,,1,"File2:tb_helper.v:tb_helper.v"]]]]);

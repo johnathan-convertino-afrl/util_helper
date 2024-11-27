@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("abs",["Function"],[["abs",,[[,,,,0,"File:util_helper_math.vh:abs"]]]]);

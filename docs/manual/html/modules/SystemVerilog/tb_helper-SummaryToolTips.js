@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("SystemVerilogModule:tb_helper",{21:"<div class=\"NDToolTip TModule LSystemVerilog\"><div id=\"NDPrototype21\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">module</span> tb_helper</div></div><div class=\"TTSummary\">test bench helper functions for verilog relating to math.</div></div>"});

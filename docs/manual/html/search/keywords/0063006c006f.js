@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("clo",["Function"],[["clogb2",,[[,,,,0,"File:util_helper_math.vh:clogb2"]]]]);
