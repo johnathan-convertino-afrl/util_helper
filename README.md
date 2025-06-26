@@ -1,5 +1,6 @@
 # AFRL Util Helper Functions
 ### Various reusable funtions for verilog
+---
 
 ![image](docs/manual/img/AFRL.png)
 
